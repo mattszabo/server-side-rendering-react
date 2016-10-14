@@ -1,0 +1,32 @@
+{
+  "name": "server-side-rendering-react",
+  "version": "1.0.0",
+  "description": "React server side rendering app",
+  "main": "index.jade",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wekilledit/server-side-rendering-react.git"
+  },
+  "author": "Matt Szabo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wekilledit/server-side-rendering-react/issues"
+  },
+  "homepage": "https://github.com/wekilledit/server-side-rendering-react#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-cli": "^6.16.0",
+    "babel-core": "^6.17.0",
+    "babel-preset-es2015": "^6.16.0",
+    "babel-preset-react": "^6.16.0",
+    "jade": "^1.11.0",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
+  }
+}
